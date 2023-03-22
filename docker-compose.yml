@@ -19,7 +19,10 @@ services:
     networks:
       - internal
       - external
+    restart: always
   backend:
+    container_name: backend
+    hostname: backend
     image: backend
     build:
       context: backend
@@ -27,7 +30,7 @@ services:
     environment:
       NODE_ENV: production
     expose:
-      - 8080
+      - 3000
     networks:
       - external
       - internal
@@ -38,8 +41,7 @@ services:
     networks:
       - external
       - internal
-    command:
-      tunnel --no-autoupdate run --token
+    command: tunnel --no-autoupdate run --token
       eyJhIjoiZWQ2NmE1NDZlYWVhMWNlMDBlYjE2YmI1Yzc1NmFkY2EiLCJ0IjoiYzI2MmFhYTYtOTVkYi00YzE5LTk4NzktZTI2YzMwMTg1YmU4IiwicyI6Ik1HSTRNR05pT0RndE4ySXpNUzAwWWpjeUxUa3laakl0TmpZMll6WTBZMk16TVRSaiJ9
     volumes:
       - /opt/appdata/cloudflared/data:/home/nonroot/.cloudflared/

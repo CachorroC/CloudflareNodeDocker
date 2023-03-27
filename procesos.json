@@ -1,0 +1,905 @@
+[
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 2,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400300320170088400",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 14,
+        "id_deudor": 1077969975,
+        "idConexion": 259,
+        "idProceso": 50468620,
+        "demandado": "yesid albeiro ramos",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "direccion": "carrera 77b no 68b - 19 barrio santa helenita",
+        "email": "yess_id@hotmailcom",
+        "etapa_procesal": "emplazamiento",
+        "fechaProceso": "2017-05-26T00:00:00",
+        "fechaUltimaActuacion": "2023-01-16T00:00:00",
+        "llaveProceso": "11001400300320170088400",
+        "proceso_type": "prendario",
+        "radicado": "2017 - 00884",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+        "telefonos": {
+          "celular": 3212337597
+        },
+        "esPrivado": false
+      },
+      {
+        "cantFilas": -1,
+        "idConexion": 320,
+        "idProceso": 113956611,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "fechaProceso": "2017-05-24T00:00:00",
+        "llaveProceso": "11001400300320170088400",
+        "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+        "esPrivado": false,
+        "fechaUltimaActuacion": null
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 2,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400303420170083600",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 86,
+        "id_deudor": 1032432802,
+        "idConexion": 259,
+        "idProceso": 50521480,
+        "demandado": "luis esneider orduz farfan",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "carrera 95 # 138 - 58",
+        "email": "orduzcrit2@hotmailcom",
+        "etapa_procesal": "ejecucion",
+        "fechaProceso": "2017-06-21T00:00:00",
+        "fechaUltimaActuacion": "2023-03-13T00:00:00",
+        "llaveProceso": "11001400303420170083600",
+        "proceso_type": "prendario",
+        "radicado": "2017 - 00836",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+        "telefonos": {
+          "fijo": 4712921
+        },
+        "esPrivado": false
+      },
+      {
+        "cantFilas": -1,
+        "idConexion": 320,
+        "idProceso": 81728891,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "fechaProceso": "2017-09-14T00:00:00",
+        "llaveProceso": "11001400303420170083600",
+        "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: LUIS ESNEIDER ORDUZ FARFAN | Defensor Privado: MARIA HELENA SUAREZ GARCIA | Tercero Vinculado: ACREEEDORES    (Emplazado) ",
+        "esPrivado": false,
+        "fechaUltimaActuacion": null
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "25245408900120170023900",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "id": 98,
+        "id_deudor": 1070329396,
+        "demandado": "erika alejandra quintero reyes",
+        "direccion": "call 2 no 8-40 el colegio",
+        "email": "",
+        "etapa_procesal": "ejecución",
+        "llaveProceso": "25245408900120170023900",
+        "proceso_type": "singular",
+        "radicado": "2017-00239",
+        "telefonos": {
+          "celular": 3114456631
+        }
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "25754418900320170075500",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "id": 116,
+        "id_deudor": 900212673,
+        "demandado": "jencell eu",
+        "direccion": "carrera 3 # 29a - 02",
+        "email": "",
+        "etapa_procesal": "ejecución",
+        "proceso_type": "singular",
+        "radicado": "2017 - 00755",
+        "telefonos": {
+          "fijo": 5753416
+        }
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400302520170090300",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 170,
+        "id_deudor": 52189873,
+        "idConexion": 259,
+        "idProceso": 112048180,
+        "demandado": "darnelly herndez martinez",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "calle 74g # 80 - 58 sur",
+        "email": "darnelly-74@hotmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-08-29T00:00:00",
+        "fechaUltimaActuacion": "2023-03-22T00:00:00",
+        "llaveProceso": "11001400302520170090300",
+        "proceso_type": "hipotecario",
+        "radicado": "2017 - 00903",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DARNELLY HERNANDEZ MARTINEZ ",
+        "telefonos": {
+          "celular": 3144189224,
+          "fijo": 4530972
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400300120170100100",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 178,
+        "id_deudor": 11185630,
+        "idConexion": 259,
+        "idProceso": 50621670,
+        "demandado": "wilson alfonso jimenez mendieta",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "carrera 81c # 2b - 80 piso 2",
+        "email": "grupocomerciallasaba@hotmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-08-09T00:00:00",
+        "fechaUltimaActuacion": "2023-03-28T00:00:00",
+        "llaveProceso": "11001400300120170100100",
+        "proceso_type": "singular",
+        "radicado": "2017 - 01001",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: WILSON ALFONSO JIMENEZ MENDIETA ",
+        "telefonos": {
+          "fijo": 5714329
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400300820170113400",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 231,
+        "id_deudor": 79853115,
+        "idConexion": 259,
+        "idProceso": 50716620,
+        "demandado": "fanor diaz agudelo",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "diagol 56 bis 84 a 10 sur tr 1",
+        "email": "fanordiaz@gmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-09-19T00:00:00",
+        "fechaUltimaActuacion": "2023-03-01T00:00:00",
+        "llaveProceso": "11001400300820170113400",
+        "proceso_type": "hipotecario",
+        "radicado": "2017 - 01134",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FANOR DIAZ AGUDELO ",
+        "telefonos": {
+          "celular": 3212406193,
+          "fijo": 8060271
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400303720170139100",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 274,
+        "id_deudor": 35506033,
+        "idConexion": 259,
+        "idProceso": 112945420,
+        "demandado": "luz dary puerta jaramillo",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "carrera  101  no 71 b - 53",
+        "email": "tis-rolita@hotmail.com",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2022-03-09T00:00:00",
+        "llaveProceso": "11001400303720170139100",
+        "proceso_type": "singular",
+        "radicado": "2017 - 01391",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+        "telefonos": {
+          "celular": 3103430010,
+          "fijo": 4357832
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400301520170139400",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 278,
+        "id_deudor": 19255260,
+        "idConexion": 259,
+        "idProceso": 50777890,
+        "demandado": "matias humberto avila aguilar",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "calle 2 c no 62 - 20",
+        "email": "maifren_13@yahooes",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-10-13T00:00:00",
+        "fechaUltimaActuacion": "2021-11-08T00:00:00",
+        "llaveProceso": "11001400301520170139400",
+        "proceso_type": "hipotecario",
+        "radicado": "2017 - 01394",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+        "telefonos": {
+          "celular": 3125024008,
+          "fijo": 4170527
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400304820170097400",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 289,
+        "id_deudor": 1032383389,
+        "idConexion": 259,
+        "idProceso": 50762570,
+        "demandado": "anderson revelo santos",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "calle 64 sur  no 85 b - 40  apartamento  104",
+        "email": "ars09@hotmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-10-09T00:00:00",
+        "fechaUltimaActuacion": "2022-12-01T00:00:00",
+        "llaveProceso": "11001400304820170097400",
+        "proceso_type": "singular",
+        "radicado": "2017 - 00974",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+        "telefonos": {
+          "celular": 3118526428,
+          "fijo": 4725511
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 2,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400302120170153200",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 306,
+        "id_deudor": 79388145,
+        "idConexion": 259,
+        "idProceso": 50769660,
+        "demandado": "libardo alfonso gonzalez triviño",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "carrera 72 a- no 9 - 44",
+        "email": "li_bcar@hotmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2022-10-24T00:00:00",
+        "llaveProceso": "11001400302120170153200",
+        "proceso_type": "singular",
+        "radicado": "2017 - 01532",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+        "telefonos": {
+          "fijo": 2928108
+        },
+        "esPrivado": false
+      },
+      {
+        "cantFilas": -1,
+        "idConexion": 320,
+        "idProceso": 81620291,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 021 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "llaveProceso": "11001400302120170153200",
+        "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+        "esPrivado": true,
+        "fechaProceso": null,
+        "fechaUltimaActuacion": null
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "id": 312,
+      "id_deudor": 8799171,
+      "demandado": "manuel enrique arteaga orozco",
+      "direccion": "carrera 18 b no 4 c -  20  soacha",
+      "email": "saliradelante2012@hotmailcom",
+      "etapa_procesal": "ejecucion",
+      "numero": "25754400300120170032300",
+      "proceso_type": "hipotecario",
+      "radicado": "2017 - 00323",
+      "telefonos": {
+        "fijo": 5164071
+      },
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": []
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400302120180023600",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 401,
+        "id_deudor": 79396995,
+        "idConexion": 259,
+        "idProceso": 51029180,
+        "demandado": "arturo lince gomez",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "calle 12 a no 71 b - 60",
+        "email": "arthurlingo64@hotmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2018-02-23T00:00:00",
+        "fechaUltimaActuacion": "2023-03-22T00:00:00",
+        "llaveProceso": "11001400302120180023600",
+        "proceso_type": "hipotecario",
+        "radicado": "2018 - 00236",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ARTURO LINCE GOMEZ ",
+        "telefonos": {
+          "celular": 31088445603,
+          "fijo": 4244358
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400305620180022100",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 405,
+        "id_deudor": 900545720,
+        "idConexion": 259,
+        "idProceso": 51042800,
+        "demandado": "creas soluciones sas",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "carrera 50 1# 47 - 50 int 1 apto 101",
+        "email": "andibarracosta@gmailcom",
+        "etapa_procesal": "ejecución",
+        "fechaProceso": "2018-03-01T00:00:00",
+        "fechaUltimaActuacion": "2022-11-11T00:00:00",
+        "llaveProceso": "11001400305620180022100",
+        "proceso_type": "singular",
+        "radicado": "2018 - 00221",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+        "telefonos": {
+          "celular": 3107982028,
+          "fijo": 8626344
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 2,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001418901420190065600",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 461,
+        "id_deudor": 52883958,
+        "idConexion": 259,
+        "idProceso": 51816100,
+        "demandado": "leidy yaneth vidal rodriguez",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "direccion": "diagol 2 no 21 b-20",
+        "email": "leidyyanethlyv@gmailcom",
+        "etapa_procesal": "contestacion demanda",
+        "fechaProceso": "2019-04-04T00:00:00",
+        "fechaUltimaActuacion": "2023-03-23T00:00:00",
+        "llaveProceso": "11001418901420190065600",
+        "proceso_type": "singular",
+        "radicado": "2019 - 00656",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEIDY YANETH VIDAL RODRÍGUEZ ",
+        "telefonos": {
+          "fijo": 7114516
+        },
+        "esPrivado": false
+      },
+      {
+        "cantFilas": -1,
+        "idConexion": 320,
+        "idProceso": 135801811,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "fechaProceso": "2019-04-03T00:00:00",
+        "fechaUltimaActuacion": "2022-09-12T00:00:00",
+        "llaveProceso": "11001418901420190065600",
+        "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: LEIDY YANETH VIDAL RODRIGUEZ (Emplazado) ",
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001418900820180078500",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "id": 489,
+        "id_deudor": 51987570,
+        "idConexion": 259,
+        "idProceso": 87350810,
+        "demandado": "sandra patricia pacheco ramirez",
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "direccion": "calle 163 b no 50-80  interior 10 apt 231 conjunto la estancia iii",
+        "email": "sandrabogota2007@yahoocom",
+        "etapa_procesal": "embargo de remanentes juzgado 27 proceso 2019 - 00251",
+        "fechaProceso": "2021-03-24T00:00:00",
+        "fechaUltimaActuacion": "2023-02-27T00:00:00",
+        "llaveProceso": "11001418900820180078500",
+        "proceso_type": "singular",
+        "radicado": "2018 - 00785",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA PACHECO RAMIREZ ",
+        "telefonos": {
+          "fijo": 8121692
+        },
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "25175408900320180060200",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "id": 494,
+        "id_deudor": 13222728,
+        "demandado": "modesto pineda perez",
+        "direccion": "carrera 6 no 6-59",
+        "email": "mopadinco@yahoocom",
+        "etapa_procesal": "ejecución",
+        "proceso_type": "singular",
+        "radicado": "2018 - 00602",
+        "telefonos": {
+          "fijo": 8852490
+        }
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001418901320190070800",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "id": 497,
+        "id_deudor": 3208569,
+        "demandado": "floresmiro aponte acosta",
+        "direccion": "diagol 77b no 119 a-74 apto 504 int6",
+        "email": "dcentro@pcpplasticoscom",
+        "etapa_procesal": "ejecución",
+        "llaveProceso": "11001418901320190070800",
+        "proceso_type": "hipotecaro",
+        "radicado": "2019 - 00708",
+        "telefonos": {
+          "fijo": 3208569
+        }
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 0,
+      "cantidadRegistros": 0,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "25377408900120180037100",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": []
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400304220200053500",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "idConexion": 256,
+        "idProceso": 128164881,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "fechaProceso": "2020-10-16T00:00:00",
+        "fechaUltimaActuacion": "2023-03-13T00:00:00",
+        "llaveProceso": "11001400304220200053500",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MARCO TULIO SANCHEZ MEDINA | Demandado: SANDRA LEONOR PAEZ MURCIA ",
+        "esPrivado": false
+      }
+    ]
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "paginacion": {
+      "cantidadPaginas": 1,
+      "cantidadRegistros": 1,
+      "pagina": 1,
+      "registrosPagina": 20,
+      "paginas": null
+    },
+    "parametros": {
+      "numero": "11001400304220200053500",
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "idSujeto": null,
+      "nombre": null,
+      "ponente": null,
+      "soloActivos": false,
+      "tipoPersona": null
+    },
+    "procesos": [
+      {
+        "cantFilas": -1,
+        "idConexion": 256,
+        "idProceso": 128164881,
+        "departamento": "BOGOTÁ",
+        "despacho": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "fechaProceso": "2020-10-16T00:00:00",
+        "fechaUltimaActuacion": "2023-03-13T00:00:00",
+        "llaveProceso": "11001400304220200053500",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA LEONOR PAEZ MURCIA | Demandado: MARCO TULIO SANCHEZ MEDINA ",
+        "esPrivado": false
+      }
+    ]
+  }
+]

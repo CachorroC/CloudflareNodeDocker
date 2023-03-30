@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "new-app"
+    },
+    {
+      "path": "database"
+    },
+    {
+      "path": "../../app-playground"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+  }
+}
